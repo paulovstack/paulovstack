@@ -1,4 +1,4 @@
-![banner](https://lh3.googleusercontent.com/gg-dl/AAQ_wbGqAxfwK2_uACyHRpgYtUZGbvzUtLmu4ouZh5aZhnMa1HKbPd2iMvAubGla31s1GXcFLS2DzvOJ4cjpRcXIKd8YX5EmTmpDAiOul8QKwjVnPWJ56rsuBl65wCnCZjzR5xKOytxc1O9G2eicmWjgqEGZnJYDvC-duRxP82gRLQQLywEKkg=s1024-rj)
+<img src="https://generativelanguage.googleapis.com/v1beta/files/watermarked_img_14867524627572414695.jpg" width="100%" alt="Bem-vindo(a) ao meu perfil" />
 
 # Olá, eu sou Paulo Victor 👋
 
