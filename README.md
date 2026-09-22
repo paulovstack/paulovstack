@@ -1,4 +1,4 @@
-<img src="https://generativelanguage.googleapis.com/v1beta/files/watermarked_img_14867524627572414695.jpg" width="100%" alt="Bem-vindo(a) ao meu perfil" />
+<img src="./banner.png" width="100%" alt="Bem-vindo(a) ao meu perfil" />
 
 # Olá, eu sou Paulo Victor 👋
 
