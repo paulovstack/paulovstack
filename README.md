@@ -1,3 +1,5 @@
+<img src="./banner-github.png" width="100%" alt="Bem-vindo(a) ao perfil de Paulo Victor" />
+
 # Olá, eu sou Paulo Victor 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas focado em **Desenvolvimento Back-end / Full Stack**.
