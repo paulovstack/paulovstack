@@ -5,11 +5,10 @@
 
 ---
 
-## Estudante de ADS | Futuro(a) Desenvolvedor(a) Back-End
+## Estudante de ADS | Desenvolvedor Back-End
 
 Em transição de carreira para a área de tecnologia, com foco em **Back-End**. Estudo Análise e Desenvolvimento de Sistemas, back-end e construo projetos práticos em Python, aplicando conceitos de Programação Orientada a Objetos, lógica e bancos de dados relacionais.
 
-Antes da tecnologia, atuei por mais de 4 anos em vendas — trago dessa experiência disciplina, organização e capacidade de resolver problemas sob pressão, que aplico hoje nos estudos e nos projetos.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/" target="_blank">
@@ -28,7 +27,7 @@ Antes da tecnologia, atuei por mais de 4 anos em vendas — trago dessa experiê
 - ⚙️ Formação complementar em Back-End (Firjan/Senai)
 - 💻 Trilha Full-Stack em andamento pelo freeCodeCamp (Python, JavaScript, bancos de dados, APIs)
 - 🗄️ Praticando **Programação Orientada a Objetos** e bancos de dados relacionais em projetos próprios
-- 🔁 Em transição de carreira: de vendas para desenvolvimento back-end
+
 
 ---
 
@@ -77,6 +76,4 @@ Antes da tecnologia, atuei por mais de 4 anos em vendas — trago dessa experiê
 
 ---
 
-## 📈 Em andamento
 
-Atualmente evoluindo meus estudos em back-end e trabalhando num novo projeto: um jogo de RPG em texto, em Python, para praticar estruturação de código e lógica de jogo por turnos.
