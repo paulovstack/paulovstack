@@ -9,10 +9,10 @@
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. Construo projetos práticos em Python, aplicando conceitos de Programação Orientada a Objetos, lógica e bancos de dados relacionais — sempre buscando evoluir e aplicar boas práticas de código.
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/paulovtavares" target="_blank">
+  <a href="https://www.linkedin.com/in/paulovtavares/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-PAULO%20VICTOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[paulovtavares32]@gmail.com">
+  <a href="mailto:paulovtavares32@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -30,7 +30,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Back-End 
+### ⚙️ Back-End (foco principal)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs" />
@@ -38,7 +38,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 `Python` `C#` `Lógica de Programação` `POO`
 
-### 🎨 Front-End 
+### 🎨 Front-End (conhecimento complementar)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
@@ -73,3 +73,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 ---
 
+## 📈 Em andamento
+
+Atualmente evoluindo meus estudos em back-end e trabalhando num novo projeto: um jogo de RPG em texto, em Python, para praticar estruturação de código e lógica de jogo por turnos.
