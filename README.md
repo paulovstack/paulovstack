@@ -1,4 +1,3 @@
-[profile_readme.md](https://github.com/user-attachments/files/32532551/profile_readme.md)
 <img src="./banner.png" width="100%" alt="Paulo Victor Banner" />
 
 # Olá, eu sou Paulo Victor 👋
@@ -33,15 +32,15 @@ Em transição de carreira para a área de tecnologia, com foco em **Back-End**.
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Back-End (foco principal)
+### ⚙️ Back-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs" />
 </p>
 
-`Python` `C# (em aprendizado — Microsoft Learn)` `Lógica de Programação` `POO`
+`Python` `C#` `Lógica de Programação` `POO`
 
-### 🎨 Front-End (conhecimento complementar)
+### 🎨 Front-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
