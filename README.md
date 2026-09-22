@@ -73,6 +73,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 ---
 
-## 📈 Em andamento
 
-Atualmente evoluindo meus estudos em back-end e trabalhando num novo projeto: um jogo de RPG em texto, em Python, para praticar estruturação de código e lógica de jogo por turnos.
