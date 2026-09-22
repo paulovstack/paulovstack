@@ -4,16 +4,15 @@
 
 ---
 
-## Estudante de ADS | Desenvolvedor Back-End
+## Desenvolvedor(a) Back-End em formação
 
-Em transição de carreira para a área de tecnologia, com foco em **Back-End**. Estudo Análise e Desenvolvimento de Sistemas, back-end e construo projetos práticos em Python, aplicando conceitos de Programação Orientada a Objetos, lógica e bancos de dados relacionais.
-
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. Construo projetos práticos em Python, aplicando conceitos de Programação Orientada a Objetos, lógica e bancos de dados relacionais — sempre buscando evoluir e aplicar boas práticas de código.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-PAULO%20VICTOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[seu-email]@dominio.com">
+  <a href="mailto:[paulovtavares2]@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,20 +26,19 @@ Em transição de carreira para a área de tecnologia, com foco em **Back-End**.
 - 💻 Trilha Full-Stack em andamento pelo freeCodeCamp (Python, JavaScript, bancos de dados, APIs)
 - 🗄️ Praticando **Programação Orientada a Objetos** e bancos de dados relacionais em projetos próprios
 
-
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Back-End
+### ⚙️ Back-End (foco principal)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs" />
 </p>
 
-`Python` `C#` `Lógica de Programação` `POO`
+`Python` `C# (em aprendizado — Microsoft Learn)` `Lógica de Programação` `POO`
 
-### 🎨 Front-End
+### 🎨 Front-End (conhecimento complementar)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
@@ -75,4 +73,6 @@ Em transição de carreira para a área de tecnologia, com foco em **Back-End**.
 
 ---
 
+## 📈 Em andamento
 
+Atualmente evoluindo meus estudos em back-end e trabalhando num novo projeto: um jogo de RPG em texto, em Python, para praticar estruturação de código e lógica de jogo por turnos.
