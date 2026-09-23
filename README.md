@@ -70,6 +70,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 | :--- | :--- | :--- |
 | **[DevBank](https://github.com/paulovstack/banco-digital-poo)** | Sistema bancário simulando depósito e saque, com herança e encapsulamento em POO | `Python` `POO` |
 | **[TechLog Solutions](https://github.com/paulovstack/frota-techlog)** | Sistema de gestão de frota (caminhões e empilhadeiras) com cálculo de custo operacional por tipo de veículo | `Python` `POO` |
+| **[API de Adoção de Pets](https://github.com/paulovstack/api-adocao-pets)** | API REST em FastAPI para gestão de adoção de animais, com validação de dados e tratamento de erros HTTP | `Python` `FastAPI` |
 
 ---
 
