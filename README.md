@@ -1,44 +1,45 @@
-<img src="./banner.png" width="100%" alt="Paulo Victor Banner" />
 
-# Olá, eu sou Paulo Victor 👋
+<img src="./banner.svg" width="100%" alt="Paulo Victor Banner" />
+
+# Hi, I'm Paulo Victor 👋
 
 ---
 
-## Desenvolvedor(a) Back-End em formação
+## Back-End Developer in Training
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. Construo projetos práticos em Python, aplicando conceitos de Programação Orientada a Objetos, lógica e bancos de dados relacionais — sempre buscando evoluir e aplicar boas práticas de código.
+Systems Analysis and Development student, focused on **Back-End** development. I build hands-on projects in Python, applying Object-Oriented Programming concepts, logic, and relational databases — always aiming to grow and apply good coding practices.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulovtavares/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-PAULO%20VICTOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:paulovtavares32@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unisuam)
-- ⚙️ Formação complementar em Back-End (Firjan/Senai)
-- 💻 Trilha Full-Stack em andamento pelo freeCodeCamp (Python, JavaScript, bancos de dados, APIs)
-- 🗄️ Praticando **Programação Orientada a Objetos** e bancos de dados relacionais em projetos próprios
+- 🎓 Systems Analysis and Development student (Unisuam)
+- ⚙️ Complementary Back-End training (Firjan/Senai)
+- 💻 Ongoing Full-Stack track with freeCodeCamp (Python, JavaScript, databases, APIs)
+- 🗄️ Practicing **Object-Oriented Programming** and relational databases in personal projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Back-End (foco principal)
+### ⚙️ Back-End (main focus)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cs" />
 </p>
 
-`Python` `C#` `Lógica de Programação` `POO`
+`Python` `C#` `Programming Logic` `OOP`
 
-### 🎨 Front-End (conhecimento complementar)
+### 🎨 Front-End (complementary knowledge)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
@@ -46,15 +47,15 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 `JavaScript` `HTML5` `CSS3`
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-`SQL` `Bancos de Dados Relacionais` `Modelagem de Dados`
+`SQL` `Relational Databases` `Data Modeling`
 
-### 🔧 Ferramentas
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -64,14 +65,12 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em **Back-End**. C
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
-| Projeto | Descrição | Techs |
+| Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[DevBank](https://github.com/paulovstack/banco-digital-poo)** | Sistema bancário simulando depósito e saque, com herança e encapsulamento em POO | `Python` `POO` |
-| **[TechLog Solutions](https://github.com/paulovstack/frota-techlog)** | Sistema de gestão de frota (caminhões e empilhadeiras) com cálculo de custo operacional por tipo de veículo | `Python` `POO` |
-| **[API de Adoção de Pets](https://github.com/paulovstack/api-adocao-pets)** | API REST em FastAPI para gestão de adoção de animais, com validação de dados e tratamento de erros HTTP | `Python` `FastAPI` |
+| **[DevBank](https://github.com/paulovstack/banco-digital-poo)** | Banking system simulating deposits and withdrawals, using inheritance and encapsulation with OOP | `Python` `OOP` |
+| **[TechLog Solutions](https://github.com/paulovstack/frota-techlog)** | Fleet management system (trucks and forklifts) with operating cost calculation by vehicle type | `Python` `OOP` |
+| **[Pet Adoption API](https://github.com/paulovstack/api-adocao-pets)** | REST API built with FastAPI for managing pet adoptions, with data validation and HTTP error handling | `Python` `FastAPI` |
 
 ---
-
-
