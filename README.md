@@ -1,76 +1,131 @@
+# Paulo Victor
 
-<img src="./banner.svg" width="100%" alt="Paulo Victor Banner" />
+`BACK-END` `APIs` `BANCO DE DADOS` `EM EVOLUÇÃO`
 
-# Hi, I'm Paulo Victor 👋
+Desenvolvo projetos para transformar o que estudo em experiência prática.
 
----
-
-## Back-End Developer in Training
-
-Systems Analysis and Development student, focused on **Back-End** development. I build hands-on projects in Python, applying Object-Oriented Programming concepts, logic, and relational databases — always aiming to grow and apply good coding practices.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/paulovtavares/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-PAULO%20VICTOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:paulovtavares32@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e direciono meus
+estudos para desenvolvimento Back-end. Meu foco não é apenas aprender uma
+linguagem, mas entender como as partes de uma aplicação se conectam:
+regra de negócio, API, banco de dados e interface.
 
 ---
 
-## 🧑‍💻 About me
+## Atualmente
 
-- 🎓 Systems Analysis and Development student (Unisuam)
-- ⚙️ Complementary Back-End training (Firjan/Senai)
-- 💻 Ongoing Full-Stack track with freeCodeCamp (Python, JavaScript, databases, APIs)
-- 🗄️ Practicing **Object-Oriented Programming** and relational databases in personal projects
-
----
-
-## 🛠️ Tech Stack
-
-### ⚙️ Back-End (main focus)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cs" />
-</p>
-
-`Python` `C#` `Programming Logic` `OOP`
-
-### 🎨 Front-End (complementary knowledge)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
-
-`JavaScript` `HTML5` `CSS3`
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`SQL` `Relational Databases` `Data Modeling`
-
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-`Git` `GitHub`
+→ Desenvolvendo projetos com **Python e FastAPI**  
+→ Estudando **C# e ecossistema .NET**  
+→ Trabalhando com **MySQL e bancos relacionais**  
+→ Aprimorando **JavaScript e desenvolvimento Full Stack**  
+→ Estudando boas práticas de desenvolvimento e organização de código
 
 ---
 
-## 🚀 Featured Projects
+## Projeto em destaque — ExpressLog
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[DevBank](https://github.com/paulovstack/banco-digital-poo)** | Banking system simulating deposits and withdrawals, using inheritance and encapsulation with OOP | `Python` `OOP` |
-| **[TechLog Solutions](https://github.com/paulovstack/frota-techlog)** | Fleet management system (trucks and forklifts) with operating cost calculation by vehicle type | `Python` `OOP` |
-| **[Pet Adoption API](https://github.com/paulovstack/api-adocao-pets)** | REST API built with FastAPI for managing pet adoptions, with data validation and HTTP error handling | `Python` `FastAPI` |
+### Gestão de frota, do banco de dados ao deploy.
+
+O **ExpressLog** começou como um projeto de gerenciamento de frota
+e evoluiu para uma aplicação web completa.
+
+Hoje o projeto possui:
+
+`FastAPI` `Python` `MySQL` `JavaScript` `HTML/CSS`
+
+**Frontend**
+Interface responsiva para gerenciamento e acompanhamento da frota.
+
+↓ HTTP / REST
+
+**Backend**
+API responsável pelas regras de negócio e comunicação com os dados.
+
+↓ SQL
+
+**Database**
+Banco MySQL responsável por motoristas, veículos e viagens.
+
+### O que implementei
+
+- Cadastro e gerenciamento de motoristas
+- Cadastro e gerenciamento de veículos
+- Agendamento e controle de viagens
+- Regras de disponibilidade da frota
+- API REST com FastAPI
+- Integração com MySQL
+- Interface responsiva
+- Deploy completo da aplicação
+
+**Aplicação:** GitHub Pages  
+**API:** Render  
+**Banco:** Aiven MySQL
+
+[ ACESSAR PROJETO ]  [ VER CÓDIGO ]  [ DOCUMENTAÇÃO DA API ]
 
 ---
+
+## Outros projetos
+
+### DevBank
+`Python` `POO`
+
+Sistema bancário desenvolvido para praticar organização de classes,
+herança, encapsulamento e regras de negócio.
+
+### API de Adoção
+
+`Python` `FastAPI` `REST API`
+
+API para gerenciamento de animais, adotantes e processos de adoção.
+
+### TechLog
+
+`Python` `POO`
+
+Sistema de gestão de frota criado para praticar modelagem de objetos,
+herança e regras específicas para diferentes tipos de veículos.
+
+---
+
+## Minha stack
+
+BACK-END
+Python · C# · FastAPI · APIs REST · POO
+
+DATABASE
+MySQL · SQL · Modelagem Relacional
+
+FRONT-END
+HTML · CSS · JavaScript
+
+FERRAMENTAS
+Git · GitHub · VS Code · Insomnia
+
+---
+
+## Formação
+
+Análise e Desenvolvimento de Sistemas
+└── Graduação em andamento
+
+Desenvolvimento Back-end — Firjan SENAI
+└── Formação complementar em andamento
+
+Full Stack — freeCodeCamp
+└── Estudos complementares
+
+---
+
+## Próximo commit
+
+Continuar evoluindo.
+
+Não estou tentando parecer um desenvolvedor que sabe tudo.
+Este perfil registra justamente o contrário:
+
+**o que estou aprendendo, o que já consigo construir
+e até onde consigo levar cada novo projeto.**
+
+---
+
+LinkedIn · GitHub · E-mail
