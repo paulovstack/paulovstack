@@ -17,13 +17,18 @@
 ## 🕹️ PLAYER PROFILE
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║  PLAYER     Paulo Victor                                ║
-║  CLASS      Desenvolvedor Back-End em formação          ║
-║  CURSO      Análise e Desenvolvimento de Sistemas       ║
-║  FOCO       Python • C# • APIs REST • Banco de Dados    ║
-║  STATUS     [████████████░░░░░░] Em evolução...         ║
-╚══════════════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  PLAYER   Paulo Victor                                       ║
+║  CLASS    Desenvolvedor Back-End em formação                 ║
+║  CURSO    Análise e Desenvolvimento de Sistemas              ║
+║  FOCO     Python • C# • APIs REST • Banco de Dados           ║
+║                                                              ║
+║ STATUS   [████████████░░░░░░] Em evolução...                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 ```
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End**.
