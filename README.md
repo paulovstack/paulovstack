@@ -18,11 +18,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║  PLAYER     Paulo Victor                                ║
-║  CLASS      Desenvolvedor Back-End em formação          ║
-║  CURSO      Análise e Desenvolvimento de Sistemas       ║
-║  FOCO       Python • C# • APIs REST • Banco de Dados    ║
-║  STATUS     [████████████░░░░░░] Em evolução...         ║
+║  PLAYER     Paulo Victor                                 ║
+║  CLASS      Desenvolvedor Back-End em formação           ║
+║  CURSO      Análise e Desenvolvimento de Sistemas        ║
+║  FOCO       Python • C# • APIs REST • Banco de Dados     ║
+║  STATUS     [████████████░░░░░░] Em evolução...          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
