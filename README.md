@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./banner.png" width="100%" alt="Paulo Victor - Desenvolvimento Back-End">
 </p>
 
@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvo
 
 Uso este GitHub para registrar minha evolução através de projetos práticos. Gosto de entender o caminho completo de uma aplicação: da regra de negócio e banco de dados até a API, interface e publicação.
 
-Atualmente também realizo formação complementar em **Desenvolvimento Back-End pela Firjan SENAI** e continuo meus estudos em desenvolvimento Full Stack.
+Possuo formação completa em **Desenvolvimento Back-End pela Firjan SENAI** e continuo ampliando meus conhecimentos em desenvolvimento Full Stack e novas tecnologias.
 
 ---
 
@@ -68,11 +68,51 @@ Atualmente também realizo formação complementar em **Desenvolvimento Back-End
 
 ## 🗺️ MAPA DE MISSÕES
 
-### 🟢 MISSÃO PRINCIPAL — ExpressLog
+### 🟢 MISSÃO PRINCIPAL — CSTECH16
+
+> **Plataforma Full Stack de comércio eletrônico de produtos tecnológicos.**
+
+Aplicação desenvolvida com foco na integração entre Back-End, Front-End e banco de dados, reunindo funcionalidades de uma loja virtual e gerenciamento administrativo.
+
+**Arquitetura do projeto:**
+
+```text
+[ FRONT-END ]  ──HTTP──▶  [ FASTAPI ]  ──SQL──▶  [ MYSQL ]
+HTML/CSS/JS                Python                 Banco de Dados
+                           Render                 Aiven
+```
+
+**Recursos desenvolvidos:**
+
+- Catálogo e gerenciamento de produtos.
+- Cadastro e autenticação de usuários.
+- Controle de acesso por perfil.
+- Carrinho de compras.
+- Processo de compra e gerenciamento de pedidos.
+- Controle de estoque.
+- Sistema de avaliações de produtos.
+- Dashboard administrativo.
+- Relatórios e indicadores de vendas.
+- API REST documentada com Swagger.
+- Aplicação publicada na web.
+
+**Stack:** `Python` `FastAPI` `MySQL` `JavaScript` `HTML5` `CSS3` `JWT`
+
+<p align="center">
+  <a href="https://cstech16.onrender.com/"><b>🛒 ACESSAR PROJETO</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/paulovstack/CSTECH16"><b>💻 VER CÓDIGO</b></a>
+</p>
+
+---
+
+### 🚛 MISSÃO SECUNDÁRIA — EXPRESSLOG
 
 > **Sistema web de gerenciamento de frota e viagens.**
 
-O projeto reúne **frontend, API REST e banco de dados** em uma aplicação publicada na web.
+Projeto desenvolvido para aplicar conceitos de desenvolvimento Back-End, construção de APIs REST, integração com banco de dados e implementação de regras de negócio.
+
+**Arquitetura do projeto:**
 
 ```text
 [ FRONT-END ]  ──HTTP──▶  [ FASTAPI ]  ──SQL──▶  [ MYSQL ]
@@ -81,16 +121,17 @@ GitHub Pages              Render                 Aiven
 
 **Recursos desenvolvidos:**
 
-- Cadastro e gerenciamento de motoristas
-- Cadastro e gerenciamento de veículos
-- Agendamento e controle de viagens
-- Regras de negócio para disponibilidade da frota
-- API REST com FastAPI
-- Integração com banco MySQL
-- Interface responsiva para computador e celular
-- Deploy completo da aplicação
+- Cadastro e gerenciamento de motoristas.
+- Cadastro e gerenciamento de veículos.
+- Agendamento e controle de viagens.
+- Regras de negócio para disponibilidade da frota.
+- Validação de dados.
+- API REST com FastAPI.
+- Integração com banco de dados MySQL.
+- Interface responsiva para computador e celular.
+- Deploy da aplicação.
 
-**Stack:** `Python` `FastAPI` `MySQL` `JavaScript` `HTML` `CSS`
+**Stack:** `Python` `FastAPI` `MySQL` `JavaScript` `HTML5` `CSS3`
 
 <p align="center">
   <a href="https://paulovstack.github.io/ExpressLog/"><b>🎮 ACESSAR SISTEMA</b></a>
@@ -99,32 +140,6 @@ GitHub Pages              Render                 Aiven
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://expresslog-pwur.onrender.com/docs"><b>📖 SWAGGER</b></a>
 </p>
-
----
-
-### 🏦 DevBank
-
-`Python` `POO`
-
-Sistema bancário simples desenvolvido em Python para praticar **Programação Orientada a Objetos**, depósitos, saques e organização de regras de negócio.
-
-**[ ▶ VER REPOSITÓRIO ](https://github.com/paulovstack/banco-digital-poo)**
-
-### 🚛 TechLog Solutions
-
-`Python` `POO`
-
-Sistema de gestão de frota com caminhões e empilhadeiras, utilizando conceitos de orientação a objetos e cálculo de custo operacional.
-
-**[ ▶ VER REPOSITÓRIO ](https://github.com/paulovstack/frota-techlog)**
-
-### 🐾 API de Adoção de Pets
-
-`Python` `FastAPI` `REST API`
-
-API REST para gerenciamento de animais, adotantes e registros de adoção.
-
-**[ ▶ VER REPOSITÓRIO ](https://github.com/paulovstack/api-adocao-pets)**
 
 ---
 
@@ -158,13 +173,14 @@ BACK-END
 
 ```text
 [✓] Criar projetos utilizando Programação Orientada a Objetos
-[✓] Desenvolver uma API REST com FastAPI
+[✓] Desenvolver APIs REST com FastAPI
 [✓] Integrar Python com banco de dados MySQL
-[✓] Consumir uma API através de JavaScript
-[✓] Publicar frontend na web
-[✓] Publicar backend na nuvem
-[✓] Utilizar banco de dados hospedado
-[✓] Colocar uma aplicação Full Stack online
+[✓] Consumir APIs através de JavaScript
+[✓] Implementar autenticação e controle de acesso
+[✓] Desenvolver aplicações Full Stack
+[✓] Implementar regras de negócio e validações
+[✓] Publicar aplicações na web
+[✓] Hospedar aplicações e bancos de dados na nuvem
 ```
 
 ---
@@ -177,7 +193,7 @@ BACK-END
 `02` Avançar nos estudos de C# e .NET  
 `03` Aprofundar conhecimentos em APIs e bancos de dados  
 `04` Melhorar organização, testes e boas práticas de código  
-`05` Construir projetos cada vez mais completos
+`05` Construir projetos cada vez mais completos  
 
 ---
 
@@ -188,7 +204,7 @@ BACK-END
    └─ Graduação em andamento
 
 ⚙️ Desenvolvimento Back-End — Firjan SENAI
-   └─ Formação complementar em andamento
+   └─ Curso completo — Concluído
 
 💻 Full Stack — freeCodeCamp
    └─ Estudos complementares
